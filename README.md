@@ -1,16 +1,49 @@
 ## Hi there 👋
+I'm Poyraz
 
-<!--
-**poyraz-turan/poyraz-turan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 First-year Computer Engineering student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 I enjoy developing desktop applications with Python.
+
+🔐 Interested in Cybersecurity, Network Analysis.
+
+🌱 Currently learning:
+- Computer Networks
+- Cybersecurity
+- Linux
+
+### Languages
+- Python
+- HTML
+
+### Tools
+- Git-GitHub
+- Wireshark
+- Nmap
+- Linux
+
+### Interests
+- Cybersecurity
+- Computer Science
+- Network Security
+- Database Security
+
+## Featured Projects
+
+- Python GUI Applications
+- Automation Scripts
+- Utility Tools
+
+##  Certifications
+
+- Python Programming Fundamentals
+- Introduction to cybersecurity
+- Artificial Intelligence Fundamentals
+- Secure software development
+- Database Security
+
+*all of these certifications are taken from btk akademi and free
+
+>Will always develop here and learn something new
