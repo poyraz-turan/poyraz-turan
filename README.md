@@ -7,12 +7,8 @@ I'm Poyraz
 
 🐍 I enjoy developing desktop applications with Python.
 
-🔐 Interested in Cybersecurity, Network Analysis.
+🔐 Interested in Network Analysis and deeper programming.
 
-🌱 Currently learning:
-- Computer Networks
-- Cybersecurity
-- Linux
 
 ### Languages
 - Python
@@ -20,12 +16,10 @@ I'm Poyraz
 
 ### Tools
 - Git-GitHub
-- Wireshark
 - Nmap
 - Linux
 
 ### Interests
-- Cybersecurity
 - Computer Science
 - Network Security
 - Database Security
